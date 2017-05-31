@@ -78,4 +78,3 @@ function Box(){
     this.x += 50;
     }
   }
-}
