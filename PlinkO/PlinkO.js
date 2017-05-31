@@ -77,4 +77,4 @@ function Box(){
     text(this.count, this.x+12, this.y+12);
     this.x += 50;
     }
-  }
+}
